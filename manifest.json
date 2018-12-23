@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "AutoSnope",
+    "version": "1.0",
+    "description": "Adds a warning to fake news posts on social media sites and more.",
+    "applications": {
+        "gecko": {
+            "id": "autosnope@jolharg.com"
+        }
+    },
+    "icons": {
+      "48": "icons/border-48.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://*.facebook.com/*"],
+        "js": ["autosnope.js"]
+      }
+    ]
+  
+  }

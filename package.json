@@ -1,0 +1,24 @@
+{
+  "name": "autosnope",
+  "version": "1.0.0",
+  "description": "Browser extension for adding Snopes to social sharing websites",
+  "main": "autosnope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danwdart/autosnope.git"
+  },
+  "keywords": [],
+  "author": "Dan Dart <npm@dandart.co.uk> (https://dandart.co.uk/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/danwdart/autosnope/issues"
+  },
+  "homepage": "https://github.com/danwdart/autosnope#readme",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "web-ext": "^2.9.3"
+  }
+}
