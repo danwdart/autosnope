@@ -19,6 +19,6 @@
   "homepage": "https://github.com/danwdart/autosnope#readme",
   "devDependencies": {
     "eslint": "^8.31.0",
-    "web-ext": "^7.4.0"
+    "web-ext": "^0.0.1"
   }
 }
