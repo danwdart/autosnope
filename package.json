@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwdart/autosnope.git"
+    "url": "git+https://github.com/emberdart/autosnope.git"
   },
   "keywords": [],
-  "author": "Dan Dart <npm@dandart.co.uk> (https://dandart.co.uk/)",
+  "author": "Ember Dart <npm@emberdart.co.uk> (https://emberdart.co.uk/)",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/danwdart/autosnope/issues"
+    "url": "https://github.com/emberdart/autosnope/issues"
   },
-  "homepage": "https://github.com/danwdart/autosnope#readme",
+  "homepage": "https://github.com/emberdart/autosnope#readme",
   "devDependencies": {
     "eslint": "^9.15.0",
     "web-ext": "^8.3.0"
